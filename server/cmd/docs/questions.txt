@@ -1,0 +1,31 @@
+
+1. Quelle est la capitale de la France ? |
+2. Quelle est la capitale de l'Espagne ?|
+3. Quelle est la capitale de l'Allemagne ?|
+4. Quelle est la capitale de l'Italie ?|
+5. Quelle est la capitale de la Belgique ?|
+6. Quelle est la capitale de la Suisse ?|
+7. Quelle est la capitale de la Suède ?|
+8. Quelle est la capitale de la Norvège ?|
+9. Quelle est la capitale de la Finlande ?|
+10. Quelle est la capitale de la Russie ?|
+11. Quelle est la capitale de la Chine ?|
+12. Quelle est la capitale du Japon ?|
+13. Quelle est la capitale de l'Inde ?|
+
+
+14. Quelle est la capitale de l'Australie ?|
+15. Quelle est la capitale du Brésil ?|
+16. Quelle est la capitale de l'Argentine ?|
+17. Quelle est la capitale du Canada ?|
+18. Quelle est la capitale des Etats-Unis ?|
+19. Quelle est la capitale du Mexique ?|
+20. Quelle est la capitale de l'Egypte ?|
+21. Quelle est la capitale de l'Algérie ?|
+
+22. Quelle est la capitale du Maroc ?|
+23. Quelle est la capitale de la Tunisie ?|
+24. Quelle est la capitale de la Turquie ?|
+25. Quelle est la capitale de l'Iran ?|
+26. Quelle est la capitale de l'Irak ?|
+27. Quelle est la capitale de l'Arabie Saoudite ?|
