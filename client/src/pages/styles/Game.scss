@@ -1,0 +1,66 @@
+.game {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: fit-content;
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.game h1 {
+  text-transform: uppercase;
+  font-size: 2.5rem;
+  text-align: center;
+  color: white;
+  font-weight: 900;
+  font-family: "Honk";
+  text-shadow: 0px 0px 10px var(--primary-color);
+}
+
+.game h3 {
+  margin: 1rem 0;
+  text-align: center;
+  background: white;
+  padding: 1rem 2rem;
+  font-weight: 900;
+  border-radius: 5px;
+}
+
+.game p {
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-align: center;
+  color: white;
+  font-style: italic;
+  margin: 1rem 0;
+}
+
+.game button {
+  margin: 1rem 0;
+  padding: 1rem 2rem;
+  font-size: 1.2rem;
+  min-width: 300px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: white;
+  background: var(--primary-color);
+  border: none;
+  border-radius: 7px;
+  cursor: pointer;
+  &:active {
+    transform: scale(0.95);
+  }
+}
+
+#next {
+  background: var(--primary-color);
+}
+#new {
+  background: var(--primary-color);
+}
+#reload {
+  background: var(--secondary-color);
+}
